@@ -1,7 +1,0 @@
-specVersion: workspace/1.0
-metadata:
-    name: default
-dependencyManagement:
-    resolutions:
-        # local path to OpenUI5. It will resolve all required libraries and transitive dependencies.
-        - path: /local/path/to/openui5
