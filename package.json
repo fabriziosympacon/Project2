@@ -14,7 +14,7 @@
 		"test-runner": "ui5-test-runner --port 8081 --url http://localhost:8080/test/testsuite.qunit.html",
 		"test-runner-coverage": "ui5-test-runner --port 8081 --url http://localhost:8080/test/testsuite.qunit.html --coverage -ccb 100 -ccf 100 -ccl 100 -ccs 100",
 		"test": "npm run lint && npm run test-ui5",
-		"build": "ui5 build -a --clean-dest",
+		"build": "ui5 build --output public",
 		"build-self-contained": "ui5 build self-contained -a --clean-dest",
 		"serve-dist": "ws --compress -d dist"
 	},
