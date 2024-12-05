@@ -2,8 +2,8 @@
 		<App>
 			<Page>
 				<customHeader>
-    				<title="Pretty Clip" />
-				</customHeader>
+                                 <Title text="Pretty Clip" />
+                                </customHeader>
 				<VBox id="vbox" class="sapUiSmallMargin">
 					<HBox id="hbox">
 					<Button id="button1" text="Einfügen" press=".onPressButton1" type="Emphasized" class="sapUiSmallMargin"/>
