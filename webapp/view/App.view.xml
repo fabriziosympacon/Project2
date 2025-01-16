@@ -8,7 +8,7 @@
 					<Button id="button2" text="Löschen" press=".onPressButton2" type="Emphasized" class="sapUiSmallMargin"/>
 					</HBox>
 					<TextArea id="textfield1" width="auto" rows="10"/>
-					<Text id="rbuttonTitle" text="Bitte wählen Sie das Trenn-Krennzeichen:"/>
+					<Text id="rbuttonTitle" text="Bitte wählen Sie das Trenn-Krennzeichen:fjsdlsjdflsdkfjlsdj"/>
 					<RadioButtonGroup id="radioGroup1" columns="1">
 					<RadioButton id="radio1" text="Option 1: ,"/>
 					<RadioButton id="radio2" text="Option 2: ."/>
